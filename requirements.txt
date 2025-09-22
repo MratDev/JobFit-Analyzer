@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+pandas
+plotly
+pypdf
+docx2txt
+openai
