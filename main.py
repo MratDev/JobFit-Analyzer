@@ -48,7 +48,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🎯 Resume Tailor - AI Candidate Matching")
+st.title("JobFit Analyzer")
 st.markdown("*Intelligent candidate evaluation powered by AI*")
 
 # ===============================
