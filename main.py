@@ -19,7 +19,7 @@ llm = ChatOpenAI(model="gpt-5-mini", temperature=1)
 # PAGE CONFIG
 # ===============================
 st.set_page_config(
-    page_title="Resume Tailor - AI Candidate Matching",
+    page_title="JobFit Analyzer",
     page_icon="🎯",
     layout="wide",
     initial_sidebar_state="expanded"
